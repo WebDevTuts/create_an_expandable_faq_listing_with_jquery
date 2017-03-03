@@ -60,4 +60,5 @@ a:hover { color: #000; }
     top: 42px; 
     left: 23px; 
     background: url(../images/a.png) 0px 0px;
+    display: none;
 }
