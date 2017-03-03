@@ -1,0 +1,8 @@
+/*  CSS Document                             */
+
+@charset "UTF-8";
+
+body {font-family: "Trebuchet MS"; }
+p { margin: 0px; }
+a { color: #bf572c; }
+a:hover { color: #000; }
