@@ -13,3 +13,33 @@ a:hover { color: #000; }
   width: 700px;
   background: url(../images/corkboard_tile.jpg) 0px 0px;
 }
+
+.faq {
+  margin: 0 15px 35px 15px;
+  padding: 25px 15px 15px 70px;
+  position: relative;
+  background: #fff url(../images/note_top.jpg) no-repeat 0px 0px;
+}
+
+.faq_question {
+  margin: 0;
+  padding: 0 0 5px 0;
+  display: inline-block;
+  cursor: help;
+  font-weight: bold;
+  color: #1f4f71;
+}
+
+.faq_answer_container {
+  height: 0;
+  overflow: hidden;
+  padding: 0;
+  color: #BF572C;
+}
+
+.faq_answer {
+  margin: 0;
+  padding: 0;
+  color: #BF572C;
+  font-weight: normal;
+}
