@@ -6,3 +6,10 @@ body {font-family: "Trebuchet MS"; }
 p { margin: 0px; }
 a { color: #bf572c; }
 a:hover { color: #000; }
+
+.faq_container {
+  margin: 20px 0 0 20px;
+  padding: 0 0 5px 0;
+  width: 700px;
+  background: url(../images/corkboard_tile.jpg) 0px 0px;
+}
