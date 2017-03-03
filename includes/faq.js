@@ -14,4 +14,8 @@ $(document).ready(function() {
     }
   });
 
+  $('.faq').each(function() {
+    $(this).append('<div class="letter_q"></div><div class="letter_a"></div>');
+  })
+
 });
